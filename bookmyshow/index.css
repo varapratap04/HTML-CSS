@@ -1,0 +1,102 @@
+body{
+  background-color: rgb(158, 114, 58);
+}
+
+
+.image{
+  width:50px ;
+  padding-right: 600px;
+}
+.container{
+  border: solid;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding-right: 100px;
+  
+}
+.container3{
+  margin-top: 20px;
+  border: solid;
+  padding: 10px;padding-left: 60px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding-right: 100px;
+}
+a{
+  text-decoration: none;  
+  color: black;
+
+
+}
+a:hover{
+  color: red;
+}
+.container1{
+  display: flex;
+  justify-content: space-between  ;
+  padding: 30px 50px 0px 60px;
+  align-items: center;
+
+}
+h4{
+  margin-top: 0;
+  text-align: center;
+  padding-right: 20px;
+}
+#img{
+  width:200px;
+  height:300px;
+  padding-right:20px;
+
+}
+#one{
+  
+  padding-left: 20px;
+
+}
+.lan{   
+  margin-left: 50px;  
+  margin-right: 60px; 
+  margin-top: 20px;                                   /*(.lan) is used to indicate for styling the class name of lan  */
+   display: flex; 
+  justify-content: space-between;                                          /*(#one) is used to indicate for styling the id name of one  */
+}
+.check{
+  margin-top: 3px;
+}
+/* .gen{
+  
+} */
+/* button{
+  padding-left: 10px;
+} */
+ .lab{
+  font-size: 20px;
+  font-weight: 200;
+  
+ }
+.gen{
+  padding-top: 2px;
+  font-size: 20px;
+  font-weight: 300;
+  padding-left: 20px;
+  
+ }
+ .for{
+    padding-top: 2px;
+  font-size: 20px;
+  font-weight: 300;
+  padding-left: 20px;
+ }
+.cen{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.label{
+  font-size: 20px;
+  margin-right: 20px;
+}
